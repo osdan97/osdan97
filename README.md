@@ -41,10 +41,10 @@ If you have any offers or projects in mind, please feel free to contact me:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=osdan97free&show_icons=true&theme=buefy)
+![github stats](https://github-readme-stats.vercel.app/api?username=osdan97_icons=true&theme=buefy)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://komarev.com/ghpvc/?username=osdan97free&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=osdan97=blueviolet)
 </br>
-Made with :heart: by [Samus](https://github.com/osdan97)
+Made with :heart: by [osdan97](https://github.com/osdan97)
