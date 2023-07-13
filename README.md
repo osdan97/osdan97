@@ -1,135 +1,50 @@
+# Hi, I'm [Oscar Jurado (osdan97)](https://github.com/osdan97) 👋
+![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 
-<h1 align="center"><b>Hi , I'm Oscar Jurado </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-![Blue And Red Futuristic Game YouTube Channel Art](https://github.com/Nirsch95/Nirsch95/assets/37886668/07bdd4c7-5507-4482-a49c-7a06bc5f7528)
-<p >
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">I am a fullstack developer focused on developing solutions with java and spring.
-My main focus is the development of efficient and high quality backend services. I have experience in RESTful API design and implementation, database modeling and system integration. In addition, I am familiar with agile methodologies such as Scrum, which allows me to work collaboratively and adapt quickly to changes in projects.</a>
-</p>
+<p style="text-align: center;">I'm an enthusiastic and self-driven Java Developer 🚀 from Peru. I have a good command of Java, Spring Boot and cloud technologies such as AWS and Azure, I'm currently focusing on Cloud projects with java, Spring boot, AWS, NodeJS, AWS Lambda and broading my knowledge of Cloud technologies.</p>
 
+If you have any offers or projects in mind, please feel free to contact me:
 
-<br>
+[![Linkedin Badge](https://img.shields.io/badge/-Oscar_Jurado-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscar-jurado-9789it/)](https://www.linkedin.com/in/oscar-jurado-9789it/)
+[![Gmail Badge](https://img.shields.io/badge/-danieljurade@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danieljurade@gmail.com)](mailto:danieljurade@gmail.com)
 
+### 🌱 About Me
 
+-  **Learning :** AWS :zap: | Clean architecture
+-  **Languages :** Java, JavaScript, TypeScript, C#.
+-  **Hobbies :** Lover of sitcoms, a weekend of binge watching is a perfect weekend.
+-  **Fun Fact :** I love travel and learn. Also have a big love for discover new beers on the world.
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+### 🛠 Technologies & Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- A passionate Self-taught Back-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+![github stats](https://github-readme-stats.vercel.app/api?username=osdan97free&show_icons=true&theme=buefy)
 
-<br><br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center" >
-
-<div align="center"> 
-<h2>Frontend</h2>
-<br>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
-<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png" alt="TypeScript" height="40" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /> 
-<br>
-<h2>Data Base</h2>
-<br>
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3-1175138.png" alt="MongoDB" height="40" /> 
-<img style="margin: 10px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="MySQL" height="40" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /> 
-<br>
-<h2>Tools</h2>
-<br>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
-<img style="margin: 10px" src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VSC" height="40" />  
-<img style="margin: 10px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/10/logo_zjwX5FR.png" alt="VSC" height="40" />
-<br>
-<h2>Backend</h2>
-<br>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />  
-<img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:256/0*Qrh5x0L5XWFRvA9P.png" alt="Spring" height="40" />
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png" alt="Node.js" height="40" />
-</div>  
-
-</p>
-
-<br>
-
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/osdan97">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=osdan97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=osdan97&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-</ul>
-	
-
+![](https://komarev.com/ghpvc/?username=osdan97free&color=blueviolet)
+</br>
+Made with :heart: by [Samus](https://github.com/osdan97)
