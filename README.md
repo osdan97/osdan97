@@ -30,7 +30,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<p align="center">
+<p align>
 
 - **Back-End Development**:
 <div align="center">
@@ -54,7 +54,7 @@
 
 <br>
 
-- **Data Base**
+- **Data Base**:
 <div align="center">
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3-1175138.png" alt="MongoDB" height="40" /> 
 <img style="margin: 10px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="MySQL" height="40" />
