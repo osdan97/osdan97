@@ -1,8 +1,9 @@
 
 <h1 align="center"><b>Hi , I'm Oscar Jurado </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<p >
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">I am a fullstack developer focused on developing solutions with java and spring.
+My main focus is the development of efficient and high quality backend services. I have experience in RESTful API design and implementation, database modeling and system integration. In addition, I am familiar with agile methodologies such as Scrum, which allows me to work collaboratively and adapt quickly to changes in projects.</a>
 </p>
 
 
