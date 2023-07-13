@@ -39,13 +39,6 @@
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png" alt="Node.js" height="40" />
 </div>  
 
-- **Back-End Development**:
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />  
-<img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:256/0*Qrh5x0L5XWFRvA9P.png" alt="Spring" height="40" />
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png" alt="Node.js" height="40" />
-</div>  
-
 <br>   
     
 - **Front-End Development**:
@@ -59,6 +52,13 @@
 <div/>
 
 <br>
+
+- **Data Base**:
+<div align="center">
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3-1175138.png" alt="MongoDB" height="40" /> 
+<img style="margin: 10px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="MySQL" height="40" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /> 
+</div>  
 
 - **Data Base**:
 <div align="center">
