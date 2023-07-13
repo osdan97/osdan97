@@ -41,7 +41,7 @@
 <br>   
     
 - **Front-End Development**:
-<div align="center" justify-content="space-between">
+<div align="center" display="flex" justify-content="space-between">
  <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
  <a href="#"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png" alt="TypeScript" height="40" /></a>
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" height="40" />  </a>
