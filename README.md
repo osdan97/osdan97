@@ -32,16 +32,18 @@
 
 <p align="center">
 
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- **Back-End Development**:
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />  
+<img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:256/0*Qrh5x0L5XWFRvA9P.png" alt="Spring" height="40" />
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png" alt="Node.js" height="40" />
+</div>  
+
 
 <br>   
     
 - **Front-End Development**:
-<div align="center" display="flex" justify-content="space-between">
+<div align="center" display=flex justify-content=space-between>
  <a href="#"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
  <a href="#"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png" alt="TypeScript" height="40" /></a>
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" height="40" />  </a>
@@ -52,19 +54,21 @@
 
 <br>
 
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+-**Data Base**
+<div align="center">
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3-1175138.png" alt="MongoDB" height="40" /> 
+<img style="margin: 10px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="MySQL" height="40" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /> 
+<br></div>  
     
-<br>
-
 - **Softwares and Tools**:
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />  
+<img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:256/0*Qrh5x0L5XWFRvA9P.png" alt="Spring" height="40" />
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png" alt="Node.js" height="40" />
+</div>  
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
 
 <br>
 
